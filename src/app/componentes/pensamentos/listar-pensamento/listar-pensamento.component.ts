@@ -12,6 +12,12 @@ export class ListarPensamentoComponent implements OnInit {
       autoria: 'Rafael',
       modelo: 'modelo3',
     },
+    {
+      conteudo:
+        'ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.',
+      autoria: 'Rafael',
+      modelo: 'modelo3',
+    },
   ];
 
   constructor() {}
